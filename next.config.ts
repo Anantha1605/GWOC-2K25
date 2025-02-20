@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   images: {
     domains: ['via.placeholder.com'],
+    unoptimized: true,
   },
 };
 
